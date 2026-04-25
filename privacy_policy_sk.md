@@ -12,7 +12,6 @@ Nasledujúce služby tretích strán sa používajú v Aplikácii a môžu zhrom
 
 - **Google AdMob** — Zhromažďuje reklamné ID a informácie o zariadení na zobrazovanie reklám. Na iOS si personalizované reklamy vyžadujú váš súhlas prostredníctvom App Tracking Transparency. [Google Privacy Policy](https://policies.google.com/privacy)
 - **Yandex Mobile Ads** — Zobrazuje reklamy a zhromažďuje reklamné ID a informácie o zariadení. [Yandex Privacy Policy](https://yandex.com/legal/confidential/)
-- **RevenueCat** — Spracúva nákupy predplatného a ukladá anonymné ID používateľa. [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
 - **Firebase Analytics & Crashlytics** (iba Android) — Zhromažďuje štatistiky používania aplikácie, správy o pádoch a informácie o zariadení. [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
 
 ## Ukladanie údajov
