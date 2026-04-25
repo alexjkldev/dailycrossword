@@ -12,7 +12,6 @@ The following third-party services are used in the App and may collect certain d
 
 - **Google AdMob** — Collects advertising ID and device information to serve ads. On iOS, personalized ads require your consent via App Tracking Transparency. [Google Privacy Policy](https://policies.google.com/privacy)
 - **Yandex Mobile Ads** — Serves ads and collects advertising ID and device information. [Yandex Privacy Policy](https://yandex.com/legal/confidential/)
-- **RevenueCat** — Processes subscription purchases and stores an anonymous user ID. [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
 - **Firebase Analytics & Crashlytics** (Android only) — Collects app usage statistics, crash reports, and device information. [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
 
 ## Data Storage
