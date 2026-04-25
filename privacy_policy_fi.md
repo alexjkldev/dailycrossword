@@ -12,7 +12,6 @@ Sovelluksessa käytetään seuraavia kolmannen osapuolen palveluja, jotka voivat
 
 - **Google AdMob** — Kerää mainostunnisteen ja laitetietoja mainosten näyttämiseksi. iOS:ssä personoidut mainokset edellyttävät suostumustasi App Tracking Transparency -toiminnon kautta. [Googlen tietosuojakäytäntö](https://policies.google.com/privacy)
 - **Yandex Mobile Ads** — Näyttää mainoksia ja kerää mainostunnisteen ja laitetietoja. [Yandexin tietosuojakäytäntö](https://yandex.com/legal/confidential/)
-- **RevenueCat** — Käsittelee tilausostot ja tallentaa anonyymin käyttäjätunnuksen. [RevenueCatin tietosuojakäytäntö](https://www.revenuecat.com/privacy)
 - **Firebase Analytics ja Crashlytics** (vain Android) — Kerää sovelluksen käyttötilastoja, virheraporteja ja laitetietoja. [Firebasen tietosuojakäytäntö](https://firebase.google.com/support/privacy)
 
 ## Tietojen tallennus
