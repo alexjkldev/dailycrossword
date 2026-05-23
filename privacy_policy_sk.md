@@ -1,22 +1,22 @@
 # Zásady ochrany osobných údajov
 
-*Posledná aktualizácia: 19. apríla 2026*
+*Posledná aktualizácia: 23. máj 2026*
 
-Crossword Daily ("Aplikácia") je vyvinutá AlexJKL. Tieto zásady ochrany osobných údajov opisujú, ako sa vaše informácie zhromažďujú, používajú a zdieľajú pri používaní Aplikácie.
+Crossword Daily („Aplikácia") je vyvinutá AlexJKL. Tieto zásady ochrany osobných údajov opisujú, ako sa vaše informácie zhromažďujú, používajú a zdieľajú pri používaní Aplikácie.
 
 ## Informácie, ktoré zhromažďujeme
 
-Aplikácia ukladá všetok používateľom vytvorený obsah (kolesá, sektory, záznamy o točení, nastavenia) lokálne vo vašom zariadení. Nezhromažďujeme osobné údaje, ako sú mená, e-mailové adresy alebo účty.
+Aplikácia ukladá všetok obsah vytvorený používateľom (krížovky, postup, nastavenia) lokálne vo vašom zariadení. Nezhromažďujeme osobné údaje, ako sú mená, e-mailové adresy alebo účty.
 
-Nasledujúce služby tretích strán sa používajú v Aplikácii a môžu zhromažďovať určité údaje:
+V Aplikácii sa používajú nasledujúce služby tretích strán, ktoré môžu zhromažďovať určité údaje:
 
-- **Google AdMob** — Zhromažďuje reklamné ID a informácie o zariadení na zobrazovanie reklám. Na iOS si personalizované reklamy vyžadujú váš súhlas prostredníctvom App Tracking Transparency. [Google Privacy Policy](https://policies.google.com/privacy)
-- **Yandex Mobile Ads** — Zobrazuje reklamy a zhromažďuje reklamné ID a informácie o zariadení. [Yandex Privacy Policy](https://yandex.com/legal/confidential/)
-- **Firebase Analytics & Crashlytics** (iba Android) — Zhromažďuje štatistiky používania aplikácie, správy o pádoch a informácie o zariadení. [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
+- **Google AdMob** — zhromažďuje reklamný identifikátor, informácie o zariadení, údaje o interakcii s reklamami (kliknutia, zobrazenia, ktoré reklamy ste videli) a diagnostiku SDK (údaje o pádoch a výkone) na zobrazovanie a meranie reklám. Na iOS si personalizované reklamy vyžadujú váš súhlas prostredníctvom App Tracking Transparency. [Zásady ochrany osobných údajov Google](https://policies.google.com/privacy)
+- **Yandex Mobile Ads** — zobrazuje reklamy a zhromažďuje reklamný identifikátor, informácie o zariadení, údaje o interakcii s reklamami a diagnostiku SDK. [Zásady ochrany osobných údajov Yandex](https://yandex.com/legal/confidential/)
+- **Firebase (Google)** — Crashlytics zhromažďuje správy o pádoch a chybách: trasovanie zásobníka, verziu OS, model zariadenia a identifikátor inštalácie. Firebase Analytics zhromažďuje anonymné udalosti používania aplikácie a identifikátor zariadenia. [Zásady ochrany osobných údajov Google](https://policies.google.com/privacy)
 
 ## Ukladanie údajov
 
-Všetky údaje aplikácie sú uložené lokálne vo vašom zariadení. Žiadne osobné údaje sa neodosielajú na naše servery.
+Všetky údaje aplikácie sú uložené lokálne vo vašom zariadení. Žiadne osobné údaje sa neprenášajú na naše servery.
 
 ## Ochrana súkromia detí
 
@@ -28,4 +28,4 @@ Tieto zásady ochrany osobných údajov môžeme z času na čas aktualizovať. 
 
 ## Kontakt
 
-Ak máte otázky týkajúce sa týchto zásad ochrany osobných údajov, kontaktujte nás prostredníctvom stránky aplikácie v App Store alebo Google Play Store.
+Ak máte otázky týkajúce sa týchto zásad ochrany osobných údajov alebo chcete kontaktovať vývojára, môžete nás kontaktovať prostredníctvom Aplikácie alebo cez stránku Aplikácie v App Store alebo Google Play Store. Keď nás kontaktujete e-mailom, dostávame vašu e-mailovú adresu, obsah vašej správy a všetky prílohy. Tieto informácie používame výhradne na odpoveď na vašu žiadosť a zlepšenie Aplikácie. Nezdieľame ich s tretími stranami.
