@@ -12,6 +12,7 @@ V Aplikácii sa používajú nasledujúce služby tretích strán, ktoré môžu
 
 - **Google AdMob** — zhromažďuje reklamný identifikátor, informácie o zariadení, údaje o interakcii s reklamami (kliknutia, zobrazenia, ktoré reklamy ste videli) a diagnostiku SDK (údaje o pádoch a výkone) na zobrazovanie a meranie reklám. Na iOS si personalizované reklamy vyžadujú váš súhlas prostredníctvom App Tracking Transparency. [Zásady ochrany osobných údajov Google](https://policies.google.com/privacy)
 - **Yandex Mobile Ads** — zobrazuje reklamy a zhromažďuje reklamný identifikátor, informácie o zariadení, údaje o interakcii s reklamami a diagnostiku SDK. [Zásady ochrany osobných údajov Yandex](https://yandex.com/legal/confidential/)
+- **Unity Ads** — zobrazuje reklamy a zhromažďuje reklamný identifikátor, informácie o zariadení, údaje o interakciách s reklamami a diagnostické údaje SDK. [Zásady ochrany osobných údajov Unity](https://unity.com/legal/privacy-policy)
 - **Firebase (Google)** — Crashlytics zhromažďuje správy o pádoch a chybách: trasovanie zásobníka, verziu OS, model zariadenia a identifikátor inštalácie. Firebase Analytics zhromažďuje anonymné udalosti používania aplikácie a identifikátor zariadenia. [Zásady ochrany osobných údajov Google](https://policies.google.com/privacy)
 
 ## Ukladanie údajov
