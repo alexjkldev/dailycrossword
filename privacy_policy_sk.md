@@ -1,8 +1,8 @@
 # Zásady ochrany osobných údajov
 
-*Posledná aktualizácia: 23. máj 2026*
+*Posledná aktualizácia: 20. októbra 2026*
 
-Crossword Daily („Aplikácia") je vyvinutá AlexJKL. Tieto zásady ochrany osobných údajov opisujú, ako sa vaše informácie zhromažďujú, používajú a zdieľajú pri používaní Aplikácie.
+Crossword Daily („Aplikácia") je vyvinutá AlexJKL Oy. Tieto zásady ochrany osobných údajov opisujú, ako sa vaše informácie zhromažďujú, používajú a zdieľajú pri používaní Aplikácie.
 
 ## Informácie, ktoré zhromažďujeme
 
@@ -28,5 +28,7 @@ Aplikácia vedome nezhromažďuje osobné údaje od detí. Vyššie uvedené slu
 Tieto zásady ochrany osobných údajov môžeme z času na čas aktualizovať. Zmeny budú zverejnené v Aplikácii alebo na tejto stránke.
 
 ## Kontakt
+
+Aplikáciu vyvíja a vydáva **AlexJKL Oy** (IČO 3656955-7, Fínsko). E-mail: [support@alexjkl.fi](mailto:support@alexjkl.fi)
 
 Ak máte otázky týkajúce sa týchto zásad ochrany osobných údajov alebo chcete kontaktovať vývojára, môžete nás kontaktovať prostredníctvom Aplikácie alebo cez stránku Aplikácie v App Store alebo Google Play Store. Keď nás kontaktujete e-mailom, dostávame vašu e-mailovú adresu, obsah vašej správy a všetky prílohy. Tieto informácie používame výhradne na odpoveď na vašu žiadosť a zlepšenie Aplikácie. Nezdieľame ich s tretími stranami.
